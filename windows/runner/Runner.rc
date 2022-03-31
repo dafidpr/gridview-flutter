@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "pertemuan_ketiga" "\0"
+            VALUE "FileDescription", "gridview_flutter" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "pertemuan_ketiga" "\0"
+            VALUE "InternalName", "gridview_flutter" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "pertemuan_ketiga.exe" "\0"
-            VALUE "ProductName", "pertemuan_ketiga" "\0"
+            VALUE "OriginalFilename", "gridview_flutter.exe" "\0"
+            VALUE "ProductName", "gridview_flutter" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

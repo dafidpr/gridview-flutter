@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.pertemuan_ketiga">
+    package="com.example.gridview_flutter">
    <application
-        android:label="pertemuan_ketiga"
+        android:label="gridview_flutter"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

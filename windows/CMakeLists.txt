@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(pertemuan_ketiga LANGUAGES CXX)
+project(gridview_flutter LANGUAGES CXX)
 
-set(BINARY_NAME "pertemuan_ketiga")
+set(BINARY_NAME "gridview_flutter")
 
 cmake_policy(SET CMP0063 NEW)
 
